@@ -1,1 +1,1 @@
-# git-new
+new repo for projects
